@@ -1,0 +1,17 @@
+{
+  "name": "RichConsole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rich-presence": "0.0.8",
+    "inquirer": "^8.0.0",
+    "sileco.db": "^2.2.1"
+  }
+}
